@@ -10,3 +10,4 @@ All write-ups are also archived in [archive.md](https://archive.md/).
 3. [Tom Anthony - Google Exploit – Steal Account Login Email Addresses](https://www.tomanthony.co.uk/blog/google-exploit-steal-login-email-addresses/)
 4. [mangopdf - When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
 5. [Mohamed A. Baset - The 2.5mins or 2.5k$ hawk-eye bug - A Facebook Pages Admins Disclosure Vulnerability!](https://seekurity.com/blog/2018/02/25/admin/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability)
+6. [Youssef Sammouda - Expose the email address of Workplace users](https://ysamm.com/?p=588)
