@@ -11,3 +11,6 @@ All write-ups are also archived in [archive.md](https://archive.md/).
 4. [mangopdf - When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
 5. [Mohamed A. Baset - The 2.5mins or 2.5k$ hawk-eye bug - A Facebook Pages Admins Disclosure Vulnerability!](https://seekurity.com/blog/2018/02/25/admin/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability)
 6. [Youssef Sammouda - Expose the email address of Workplace users](https://ysamm.com/?p=588)
+7. [Dávid Schütz - IDOR on clientauthconfig.googleapis.com](https://feed.bugs.xdavidhu.me/bugs/0009)
+8. [Dávid Schütz - De-anonymising Anonymous Animals in Google Workspace](https://feed.bugs.xdavidhu.me/bugs/0003)
+9. [Dávid Schütz - Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/)
