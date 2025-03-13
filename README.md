@@ -1,6 +1,6 @@
 # Information Disclosure Write-Ups And PoCs
 
-This is the list of write-ups, articles, and PoC of various vulnerabilites (or just flaws) **suitable for OSINT** (mostly CWE-200).
+This is the list of write-ups, articles, and PoC of various vulnerabilites (or just flaws) **interesting in context of OSINT** (mostly CWE-200).
 
 For educational purposes only! By studying this content, you will understand how to find similar vulnerabilities in other systems.
 
